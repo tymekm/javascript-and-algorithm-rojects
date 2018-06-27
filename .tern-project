@@ -1,0 +1,16 @@
+{
+  "libs": [
+    "browser",
+    "jquery"
+    "esversio": 6
+  ],
+  "loadEagerly": [
+    "importantfile.js"
+  ],
+  "plugins": {
+    "requirejs": {
+      "baseURL": "./",
+      "paths": {}
+    }
+  }
+}
